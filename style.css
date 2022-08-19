@@ -37,7 +37,7 @@ p {
 }
 .kps{
 	border-radius: 50%;
-	width: max-content;
+	width: auto;
 }
 .section-title {
 	font-size: 4rem;
