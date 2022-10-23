@@ -402,14 +402,22 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
-
-a.link{
+/* unvisited link */
+a.text-link:link{
 	color: crimson;
 }
-a:visited{
-	color: #3399ff;
+/* visited link */
+a.text-link:visited{
+	color: salmon;
 }
-
+/* mouse over link */
+a.text-link:hover {
+	color: cyan;
+}
+/* selected link */
+a.text-link:active {
+	color: firebrick;
+}
 /* End Projects section */
 
 /* About Section */
