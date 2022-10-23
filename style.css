@@ -402,6 +402,14 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+
+a.link{
+	color: crimson;
+}
+a:visited{
+	color: #3399ff;
+}
+
 /* End Projects section */
 
 /* About Section */
