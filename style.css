@@ -458,7 +458,7 @@ p {
 
 /* unvisited link */
 a.text-link:link {
-	color: cyan;
+	color: blue;
 }
 
 /* visited link */
@@ -468,7 +468,7 @@ a.text-link:visited {
 
 /* mouse over link */
 a.text-link:hover {
-	color: green;
+	color: cyan;
 }
 
 /* selected link */
