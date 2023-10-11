@@ -468,12 +468,12 @@ a.text-link:visited {
 
 /* mouse over link */
 a.text-link:hover {
-	color: crimson;
+	color: green;
 }
 
 /* selected link */
 a.text-link:active {
-	color: green;
+	color: yellow;
 }
 
 /* End Projects section */
