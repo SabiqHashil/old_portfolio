@@ -457,23 +457,23 @@ p {
 }
 
 /* unvisited link */
-/* a.text-link:link { */
-/* 	color: #ADD8E6; */
-/* } */
+a.text-link:link {
+	color: red;
+}
 
 /* visited link */
 a.text-link:visited {
-	color: red;
+	color: green;
 }
 
 /* mouse over link */
 a.text-link:hover {
-	color: cyan;
+	color: hotpink;
 }
 
 /* selected link */
 a.text-link:active {
-	color: yellow;
+	color: blue;
 }
 
 /* End Projects section */
