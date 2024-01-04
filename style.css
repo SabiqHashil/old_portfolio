@@ -458,7 +458,7 @@ p {
 
 /* unvisited link */
 a.text-link:link {
-	color: blue;
+	color: #ADD8E6;
 }
 
 /* visited link */
