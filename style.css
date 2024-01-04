@@ -457,9 +457,9 @@ p {
 }
 
 /* unvisited link */
-a.text-link:link {
-	color: #ADD8E6;
-}
+/* a.text-link:link { */
+/* 	color: #ADD8E6; */
+/* } */
 
 /* visited link */
 a.text-link:visited {
